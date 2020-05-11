@@ -1,2 +1,2 @@
 # Drum-Kit-Challenge
-HTML, CSS and JS challenge
+HTML, CSS and JS exercise.
